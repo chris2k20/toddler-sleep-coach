@@ -1,0 +1,2 @@
+date,first_awake,final_awake,out_of_bed,nap1_start,nap1_end,nap1_place,nap1_woken,nap2_start,nap2_end,routine_start,night_sleep_onset,onset_relaxed,night_wakings,night_quality,sick,special,forecast_window,forecast_preferred,deviation_min,confidence
+2026-01-01,07:00,07:00,,12:30,14:00,bed,no,,,19:30,20:10,yes,,good,no,EXAMPLE ROW - delete before use,19:45-20:15,20:00,0,low

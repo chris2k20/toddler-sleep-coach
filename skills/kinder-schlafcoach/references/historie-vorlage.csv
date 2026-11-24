@@ -1,0 +1,2 @@
+datum,first_awake,final_awake,out_of_bed,nap1_start,nap1_end,nap1_ort,nap1_geweckt,nap2_start,nap2_end,routine_start,night_sleep_onset,einschlafen_entspannt,nachtwach,night_quality,krank,besonderes,prognose_fenster,prognose_bevorzugt,abweichung_min,konfidenz
+2026-01-01,07:00,07:00,,12:30,14:00,Bett,nein,,,19:30,20:10,ja,,gut,nein,BEISPIELZEILE – vor Nutzung löschen,19:45-20:15,20:00,0,niedrig

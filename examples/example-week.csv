@@ -1,0 +1,6 @@
+date,first_awake,final_awake,out_of_bed,nap1_start,nap1_end,nap1_place,nap1_woken,nap2_start,nap2_end,routine_start,night_sleep_onset,onset_relaxed,night_wakings,night_quality,sick,special,forecast_window,forecast_preferred,deviation_min,confidence
+2026-11-16,07:05,07:05,07:15,12:10,13:40,bed,no,,,19:35,20:20,yes,,good,no,,19:50-20:20,20:05,0,low
+2026-11-17,06:50,06:50,07:00,11:55,13:20,bed,no,,,19:25,20:05,yes,03:10-03:25 light,good,no,,19:45-20:15,20:00,0,low
+2026-11-18,07:20,07:20,07:30,12:30,14:05,bed,no,,,20:00,20:58,no,,medium,no,,20:15-20:45,20:30,+13,low
+2026-11-19,07:00,07:00,07:10,12:05,13:30,bed,no,,,19:30,20:10,yes,,good,no,,19:50-20:20,20:05,0,medium
+2026-11-20,07:10,07:10,07:20,12:04,12:42,car,no,,,18:55,19:41,yes,,good,no,travel,19:00-20:00,19:30,0,medium
