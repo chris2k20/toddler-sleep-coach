@@ -40,7 +40,7 @@ Keine App, kein Abo, kein Konto. Er läuft in der KI, die du ohnehin nutzt.
 
 ## Installation (2 Minuten)
 
-ZIP aus dem [neuesten Release](../../releases/latest) laden: `kinder-schlafcoach.zip` (Deutsch) oder `toddler-sleep-coach.zip` (Englisch).
+ZIP aus dem [neuesten Release](https://github.com/chris2k20/toddler-sleep-coach/releases/latest) laden: `kinder-schlafcoach.zip` (Deutsch) oder `toddler-sleep-coach.zip` (Englisch).
 
 **Claude (claude.ai oder Desktop-App)**
 Einstellungen → Funktionen → Skills → ZIP hochladen. Dann in einem Projekt: *„Schlafcoach: leg ein Profil für meine Tochter an, 26 Monate, Ziel eingeschlafen bis 20:15.“*

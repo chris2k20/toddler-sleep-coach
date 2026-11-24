@@ -40,7 +40,7 @@ No app, no subscription, no account. It runs inside the AI you already use.
 
 ## Install (2 minutes)
 
-Download the ZIP from the [latest release](../../releases/latest): `toddler-sleep-coach.zip` (English) or `kinder-schlafcoach.zip` (German).
+Download the ZIP from the [latest release](https://github.com/chris2k20/toddler-sleep-coach/releases/latest): `toddler-sleep-coach.zip` (English) or `kinder-schlafcoach.zip` (German).
 
 **Claude (claude.ai or desktop app)**
 Settings → Capabilities → Skills → upload the ZIP. Then start a chat in a project: *"Sleep coach: create a profile for my daughter, 26 months, goal asleep by 20:15."*
